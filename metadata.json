@@ -1,0 +1,7 @@
+{
+  "name": "Shakira-Coldplay BeatBox",
+  "description": "An interactive electronic music sequencer inspired by high-profile live collaborations, featuring AI-driven pattern generation and real-time visualizers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
